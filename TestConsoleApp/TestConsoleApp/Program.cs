@@ -25,6 +25,7 @@ namespace TestConsoleApp
             StreamWriter sw = new StreamWriter("source1_encoded.txt");
 
             String line;
+			String test;
 
 
             try
